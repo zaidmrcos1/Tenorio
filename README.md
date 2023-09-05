@@ -1,2 +1,1 @@
-# Tenorio
-Este es un repositorio de prueba del curso Henry
+Este es una prueba de como crear un repositorio y clonarlo desde gihhub a mi computadora
